@@ -15,6 +15,7 @@ const BlogIndexPage = ({ data: { allMdx } }) => (
     <SEO />
     <Section centered>
       <MainBio />
+      
     </Section>
 
     {allMdx.nodes.map(post => (

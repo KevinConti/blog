@@ -3,6 +3,7 @@ import { useStaticQuery, graphql } from 'gatsby'
 import Image from 'gatsby-image'
 
 import './main-bio.css'
+import Login from './login';
 
 const socialURLs = {
   twitter: 'https://twitter.com',
@@ -90,6 +91,7 @@ function Bio() {
     >
       <div className="main-bio">
         <h1 style={{ marginBottom: '0.875rem' }}>{author}</h1>
+        <Login />
         <ul className="horizontal-links" style={{ marginBottom: '0.875rem' }}>
           {Object.keys(social).map(s =>
             social[s] ? (

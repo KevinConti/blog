@@ -3,7 +3,7 @@ title: "Working Title — Environment and Procrastination"
 description: "A lot of people get really hung up on motivation and self-discipline."
 date: "2019-06-08T18:05:59.679Z"
 categories: []
-published: true
+published: false
 ---
 **NOTE**
 

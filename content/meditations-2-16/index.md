@@ -1,7 +1,7 @@
 ---
 title: "Morning Journal - Meditations 2.16"
 description: "The human soul degrades itself..."
-date: "2019-06-08T18:05:59.679Z"
+date: "2019-06-08T19:05:59.679Z"
 categories: ["Journal", "Meditations"]
 published: true
 ---

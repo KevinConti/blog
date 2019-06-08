@@ -3,6 +3,7 @@ const config = require('./config')
 module.exports = {
   siteMetadata: config,
   plugins: [
+    'gatsby-plugin-netlify-identity-widget',
     'gatsby-plugin-react-helmet',
     {
       resolve: 'gatsby-mdx',

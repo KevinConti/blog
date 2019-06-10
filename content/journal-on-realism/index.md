@@ -1,0 +1,144 @@
+---
+title: "Morning Journal - On Realism"
+description: "Realism doesn't exist. There is only optimism and pessimism, and pessimism is wrong."
+date: "2019-06-09T19:05:59.679Z"
+categories: ["Journal"]
+published: true
+---
+
+## Pessimism and Optimism: 
+
+_The two real mindsets_
+
+---
+
+I've recently developed a new mentality regarding realism. I don't think it exists. Let me explain why:
+
+![](image.png) [source](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjfrOvPvN3iAhUB7awKHWiWAeEQjxx6BAgBEAI&url=https%3A%2F%2Fwww.adgebra.in%2Fdigital-marketing%2Fsecret-ingredient-for-digital-marketing-strategy-realism-or-optimism%2F&psig=AOvVaw0CQZxLPiXyH6HVeUis7G-s&ust=1560206500474242)
+
+## What does it mean to be a realist?
+
+If I ask Google what a realist is, I get the following answer: 
+
+> Realist: a person who accepts a situation as it is and is prepared to deal with it accordingly.
+
+Well, that's all well and good, but there's a hidden presumption. How can you know what a situation **'truly is'**? 
+
+Let's think about this. There are two types of reality: subjective and objective. Objective reality is the facts of the matter. 
+
+_"After my foot touched the root of the tree, my body began to fall at a speed of 0.4 m/s"._
+
+In contrast, subjective reality is lens in which we interpret objective reality. 
+
+_"I tripped and fell because I'm such a clutz."_
+
+![](objective-vs-subjective.jpg)
+[source](https://www.yesvedanta.com/wp-content/uploads/2018/10/objective-subjective-isvara-jiva-srsti.jpg)
+
+So when we say that a realist is someone who "accepts a situation as it is", what we really mean is that they are looking past the subjective reality into the objective reality. 
+
+**But here's the problem: objective reality is useless.**
+
+---
+
+## PTSD vs PTG
+
+Consider post-traumatic stress disorder, or PTSD. Most people are familiar with the idea that when something really shitty happens to you, you're likely to be psychologically damaged from it. And while that is sometimes true, it isn't always the case. 
+
+Sometimes, when people go through something traumatic, they come out stronger on the other side. [Post-traumatic growth is the flipside of PTSD](https://www.apa.org/monitor/2016/11/growth-trauma). And, since the creation of the theory in the mid-90's, it has become fully accepted by the scientific community (the link above, for example, is from the American Psychological Association).
+
+So two different people experience the same horrible event, but one suffers because of it and one grows from it.
+
+If this is possible, how can we say that the realist is "a person who accepts a situation as it is"? 
+
+Objective reality didn't matter in the slightest, what did matter was the **subjective** perspective each individual took.
+
+---
+
+## The Harm of 'Realism'
+
+I've been trying to convince you that "subjective reality" is the only userful reality to discuss, and I hope you've been able to stay with me so far. You and I have to agree on that before we can move forward. 
+
+So, if we're in agreement, then you believe like I do that we live in a subjective world. We can create meaning from things, and we can choose between multiple different ways of looking at any event. From that choice, we have a lot of power to control our happiness. 
+
+So what does realism look like in a subjective world? It turns out, realism isn't realism at all. It's just pessimism in disguise. Here's why:
+
+![](depressed-realism.jpg)[source](https://www.affinitysm.com/wp-content/uploads/2011/07/depresion_4-1.jpg)
+
+### 1. People who are realists talk themselves down from the positives in life
+
+People who are self-identified realists tend to "talk themselves down" in two main scenarios:
+
+1. Something good _has_ happened to them
+
+2. Something good _might_ happen to them
+
+Imagine a self-identified realist graduating from college. They might make one or more of the following statements:
+
+* "I have had so many priveleges getting here that this wasn't really anything special that I did."
+
+* "I just kinda skated by, I don't think this is as big of an acheivement as everyone else does."
+
+* "In the current job enconomy, graduating doesn't really feel that special."
+
+* "Even though I graduated, I'm competing with thousands of others in my major who are more skilled than me. This doesn't mean much."
+
+### 2. People who are realists do NOT talk themselves up in negative experiences
+
+Now imagine that self-identified realist again. Would they ever make any of these statements?
+
+* "Well, that was statistically unlikely to happen, so even though I feel horrible I won't let it get to me."
+
+* "Wow, I have a 30% chance of this working. That is definitely enough to be worth a shot!"
+
+* "The world can be a hard place, but there are things I can do for myself to make it better!"
+
+Of course not. These statements don't fit our definition of a realist at the beginning of this post. A realist would try to get as close to the objective reality of the situation as possible, and therefore would be dismayed by all of the above.
+
+**Question: What would you call someone that always finds the worst interpretation of a good thing, and doesn't try to look for a good interpretation of a bad thing?**
+
+That's right. A pessimist.
+
+---
+
+## Why Optimism Wins in a Subjective World
+
+![](optimism.png)[source](https://matthewlevy.me/wp-content/uploads/2017/12/Explanatory-Style-Seligman-Optimism-Positive-Psychology.png)
+
+So, we've gotten rid of the idea of realism. In a subjective world, you can't really have realism. For realism to work, you need a stable, unchanging reality. But fortunately for us, all we have is our subjective experience.
+
+Having only a subjective experience allows us to experience things like post-traumatic growth. It allows us to become better through hardship, and for tough times to have meaning. 
+
+But all of that is cutesy-talk. Here's the real reason why you should be an optimist:
+
+**Optimists are more likely to succeed because they believe that they can**
+
+Don't worry, this isn't any _Law of Attraction_ bs. It's much more easy to understand than universal forces being available at your beck and call.
+
+Let's say that the likelihood of starting a business and having it succeed is around 20%, on average. Now, we have two people who are thinking about starting their own business. One is an optimist, and the other is a pessimist ('realist').
+
+Let's look at their thoughts:
+
+| Optimist | Pessimist |
+|-----------------------------------------------------------------|-----------------------------------------------------------------------------|
+| I can learn and grow my skills | Either I have the skills and this will work, or I don't and I'll fail |
+| My effort will determine my success | If I succeed, I got lucky. Effort is such a small percentage. |
+| When I meet an obstacle, I will find a way around or through it | If I meet an obstacle, I will try to move past it but it might be impossible |
+
+Which of these two is likely to actually start their business? The one who is, arguably, more accuarate in their predictions? Or the one who believes it to be an acheivable goal.
+
+**In other words, only the optimist has a 20% chance of success. The pessimist has a zero percent chance, because they will never try.**
+
+And not only will they not try at business, but they won't try at any of their goals which are unlikely. Which means a life without acheivement.
+
+_"But Kevin,"_ you argue, _"so what if the optimist starts a business? Who's to say that he will be happier because of it?"_
+
+Fair enough, and I'll have to leave that argument for another time as it is worth a whole post in and of itself. But we can at least agree on this:
+
+_Only one of the people above gave themselves a chance to acheive something that they thought was worth having._ 
+
+And, in the future, only the optimist has the chance of living the life they dream of.
+
+---
+
+I realize I didn't speak at all on _how_ to actually go about transitioning from a pessimist to a realist. I have some thoughts but nothing verified, as it seems to be the hardest transition I've seen for people. But I do believe that anyone can change their mindset, and that doing so is a [process of learning optimism, not an immediate belief switch](https://www.youtube.com/watch?v=2hHNq45rEnU)

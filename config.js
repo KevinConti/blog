@@ -7,18 +7,18 @@ module.exports = {
   // It should complete the sentence: Written by Kevin Conti ...
   shortBio: '',
   // a longer bio showing on the landing page of the blog
-  bio: `A junior software developer writing about happiness through an examined life, on topics such as productivity, procrastination, and more.`,
+  bio: `Some of my writings as I work out my thoughts. This blog is poorly formatted, and posts are often half-finished. I'm not writing for you as much as for me. That being said, I hope you find something that either challenges or inspires you.`,
   author: 'Kevin Conti',
   githubUrl: '{{ githubURL }}',
   // replace this by the url where your website will be published
   siteUrl: 'http://localhost:8000',
   social: {
     // leave the social media you do not want to appear as empty strings
-    twitter: '',
-    medium: '@kevcon80',
+    twitter: '@Kev_Conti',
+    medium: '',
     facebook: '',
-    github: '',
-    linkedin: '',
+    github: 'KevinConti',
+    linkedin: 'kevin-conti-b717589a/',
     instagram: '',
   },
 }

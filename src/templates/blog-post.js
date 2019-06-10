@@ -73,6 +73,18 @@ export default function PageTemplate({ data: { mdx, site }, pageContext }) {
             }}
           />
           <Bio />
+          <form name="contact" netlify>
+            <p>Want to be notified when I post?</p>
+            <p>
+              <label>Name <input type="text" name="name" /></label>
+            </p>
+            <p>
+              <label>Email <input type="email" name="email" /></label>
+            </p>
+            <p>
+              <button type="submit">Send</button>
+            </p>
+          </form>
           <ul
             style={{
               display: `flex`,
@@ -97,6 +109,7 @@ export default function PageTemplate({ data: { mdx, site }, pageContext }) {
               )}
             </li>
           </ul>
+          
         </footer>
       </section>
     </div>

@@ -73,7 +73,7 @@ export default function PageTemplate({ data: { mdx, site }, pageContext }) {
             }}
           />
           <Bio />
-          <form name="contact" netlify>
+          <form name="contact" method="POST" data-netlify="true">
             <p>Want to be notified when I post?</p>
             <p>
               <label>Name <input type="text" name="name" /></label>

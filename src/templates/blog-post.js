@@ -8,6 +8,8 @@ import Bio from '../components/bio'
 import Embed from '../components/embed'
 import { formatPostDate, formatReadingTime } from '../utils/dates'
 
+import NetlifyForm from 'react-netlify-form'
+
 import './blog-post.css'
 
 export default function PageTemplate({ data: { mdx, site }, pageContext }) {
@@ -73,18 +75,31 @@ export default function PageTemplate({ data: { mdx, site }, pageContext }) {
             }}
           />
           <Bio />
-          <form name="contact" method="POST" data-netlify="true">
-            <p>Want to be notified when I post?</p>
-            <p>
-              <label>Name <input type="text" name="name" /></label>
-            </p>
-            <p>
-              <label>Email <input type="email" name="email" /></label>
-            </p>
-            <p>
-              <button type="submit">Send</button>
-            </p>
-          </form>
+          <p>Want to be notified when I post?</p>
+          <NetlifyForm name='Contact Form'>
+            {({ loading, error, success }) => (
+              <div>
+                {loading &&
+                  <div>Loading...</div> 
+                }
+                {error &&
+                  <div>Your information was not sent. Please try again later.</div>
+                }
+                {success &&
+                  <div>Thank you for contacting us!</div>
+                }
+                {!loading && !success &&
+                  <div>
+                  <label>Name<input type='text' name='Name' required /></label>
+                    <br></br>
+                    <label>Email<input type='email' name='email' required /></label>
+                    <br />
+                    <button>Submit</button>
+                  </div>
+                }
+              </div>
+            )}
+          </NetlifyForm>
           <ul
             style={{
               display: `flex`,

@@ -1,8 +1,8 @@
 ---
-title: "Morning Journal - On Realism"
+title: "On Realism"
 description: "Realism doesn't exist. There is only optimism and pessimism, and pessimism is wrong."
 date: "2019-06-09T19:05:59.679Z"
-categories: ["Journal"]
+categories: ["Thoughts"]
 published: true
 ---
 

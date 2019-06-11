@@ -7,3 +7,11 @@ published: false
 ---
 
 # Let's stop looking at each other as rational beings
+
+(note) the solution isn't to realize irrationality in yourself just to will yourself past it. Instead, I want to recognize it and then persuade it towards my goals. That's done by:
+
+Elephant:
+
+* Identity alignment - Grow Yourself to the Challenge (Elephant)
+
+* Fix the environment - Shrink the Challenge to Yourself (Path)

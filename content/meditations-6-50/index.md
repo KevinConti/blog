@@ -24,6 +24,6 @@ It's a great feeling when you have convinced someone to your way of thinking. Pe
 
 But that rarely happens.
 
-Instead, it's best to be authentic to your thoughts, but know that it is unlikely they will have a change of heart. In knowing this, you will approach conversations from a place of kindness, instead of a place of needing to 'win'.
+Instead, it's best to be authentic to your thoughts, but know that it is unlikely that the individual will have a change of heart. In knowing this, you will approach conversations from a place of kindness, instead of a place of needing to 'win'.
 
 And when they refuse to agree with you (even at their own peril), practice being content with the fact that you tried, and succeeded in trying. Therefore, you have succeeded in your goal.

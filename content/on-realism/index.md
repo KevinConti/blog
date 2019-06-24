@@ -6,62 +6,66 @@ categories: ["Thoughts"]
 published: true
 ---
 
-## Pessimism and Optimism: 
+## Pessimism and Optimism:
 
 _The two real mindsets_
 
 ---
 
-I've recently developed a new mentality regarding realism. I don't think it exists. Let me explain why:
+I've recently developed a new mentality regarding realism: I don't think it exists. Here's why.
 
 ![](image.png) [source](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjfrOvPvN3iAhUB7awKHWiWAeEQjxx6BAgBEAI&url=https%3A%2F%2Fwww.adgebra.in%2Fdigital-marketing%2Fsecret-ingredient-for-digital-marketing-strategy-realism-or-optimism%2F&psig=AOvVaw0CQZxLPiXyH6HVeUis7G-s&ust=1560206500474242)
 
 ## What does it mean to be a realist?
 
-If I ask Google what a realist is, I get the following answer: 
+If I ask Google what a realist is, I get the following answer:
 
 > Realist: a person who accepts a situation as it is and is prepared to deal with it accordingly.
 
-Well, that's all well and good, but there's a hidden presumption. How can you know what a situation **'truly is'**? 
+That's all well and good, but there's a hidden presumption. How can you know what a situation **'truly is'**? 
 
-Let's think about this. There are two types of reality: subjective and objective. Objective reality is the facts of the matter. 
+Let's think about this. There are two types of reality: subjective and objective. Objective reality is the facts of the matter, an undeniable statement of the truth, a universally agreed-upon facet of life.
 
 _"After my foot touched the root of the tree, my body began to fall at a speed of 0.4 m/s"._
 
-In contrast, subjective reality is lens in which we interpret objective reality. 
+In contrast, subjective reality is the lens through which we are able to interpret that objective reality.
 
 _"I tripped and fell because I'm such a clutz."_
 
 ![](objective-vs-subjective.jpg)
 [source](https://www.yesvedanta.com/wp-content/uploads/2018/10/objective-subjective-isvara-jiva-srsti.jpg)
 
-So when we say that a realist is someone who "accepts a situation as it is", what we really mean is that they are looking past the subjective reality into the objective reality. 
+So what we really mean by a _"realist"_ is someone who looks past the subjective reality of life, peircing the facade that blinds the rest of us, and stares unblinkingly into the objective reality of life.
 
-**But here's the problem: objective reality is useless.**
+But there's a problem. 
+
+**Objective reality is useless.**
 
 ---
 
 ## PTSD vs PTG
 
-Consider post-traumatic stress disorder, or PTSD. Most people are familiar with the idea that when something really shitty happens to you, you're likely to be psychologically damaged from it. And while that is sometimes true, it isn't always the case. 
+Consider Post-Traumatic Stress Disorder (PTSD). After something traumatizing occurs, you may find yourself losing interest in hobbies, having trouble sleeping, being gripped by paralyzing anxiety, and struggling to keep the pieces of your life together. PTSD is a horrible disorder and, undebateably a direct result of life's worst experiences.
 
-Sometimes, when people go through something traumatic, they come out stronger on the other side. [Post-traumatic growth is the flipside of PTSD](https://www.apa.org/monitor/2016/11/growth-trauma). And, since the creation of the theory in the mid-90's, it has become fully accepted by the scientific community (the link above, for example, is from the American Psychological Association).
+And while that is sometimes true, it isn't always the case.
 
-So two different people experience the same horrible event, but one suffers because of it and one grows from it.
+Sometimes when people go through something traumatic, they come out stronger on the other side. [Post-traumatic growth is the flipside of PTSD](https://www.apa.org/monitor/2016/11/growth-trauma). And since the creation of the theory in the mid-90's, it has become fully accepted by the scientific community (the link above is from the American Psychological Association).
 
-If this is possible, how can we say that the realist is "a person who accepts a situation as it is"? 
+How can two different people experience the same horrible event but one suffers because of it and one grows from it?
 
-Objective reality didn't matter in the slightest, what did matter was the **subjective** perspective each individual took.
+And, if this is possible, how can we say that the realist is _"a person who accepts a situation as [the reality] is"_? Objective reality didn't matter in the slightest! 
+
+What did matter was the **subjective** perspective each individual took.
 
 ---
 
 ## The Harm of 'Realism'
 
-I've been trying to convince you that "subjective reality" is the only userful reality to discuss, and I hope you've been able to stay with me so far. You and I have to agree on that before we can move forward. 
+I've been trying to convince you that "subjective reality" is the only useful reality to discuss, and I hope you've been able to stay with me so far. You and I have to agree on that before we can move forward.
 
-So, if we're in agreement, then you believe like I do that we live in a subjective world. We can create meaning from things, and we can choose between multiple different ways of looking at any event. From that choice, we have a lot of power to control our happiness. 
+If we're in agreement, then you believe you live in a subjective world, one which enables you to choose between multiple perceptions of an event. This allows you to create personal meaning by modifying your subjective reality to fit into the narrative that most empowers you.
 
-So what does realism look like in a subjective world? It turns out, realism isn't realism at all. It's just pessimism in disguise. Here's why:
+If that's all true, then what does realism look like in a subjective world? It turns out, realism isn't realism at all. It's just pessimism in disguise. Here's why:
 
 ![](depressed-realism.jpg)[source](https://www.affinitysm.com/wp-content/uploads/2011/07/depresion_4-1.jpg)
 

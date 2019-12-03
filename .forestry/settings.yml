@@ -5,9 +5,8 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
-  path: content
+  path: content/aesops-grapes/index.md
   label: Document
-  match: "**/*"
 - type: directory
   path: content
   label: posts

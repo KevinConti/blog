@@ -17,3 +17,5 @@ fields:
 - type: boolean
   name: published
   label: published
+pages:
+- content/fear-and-uncertainty.md

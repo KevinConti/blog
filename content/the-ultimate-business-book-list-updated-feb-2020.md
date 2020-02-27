@@ -3,7 +3,7 @@ title: The Ultimate Business Book List (Updated Feb 2020)
 description: My hand-selected guide of the best books for starting a company
 date: 
 categories: []
-published: false
+published: true
 
 ---
 The business book industry is crazy, and I love it.

@@ -12,27 +12,31 @@ I even got value out if it almost every time that I used it. Yet when I got the 
 
 ## What makes people buy?
 
- We treat this like it’s an easy question. How would you answer it? > "People buy based on the perceived value of a product, DUH!" But, if we dig deeper, this isn’t always the case. 1: Support One reason people buy is to support others that we care about. This is why building an audience is so insanely powerful.
+We treat this like it’s an easy question. How would you answer it? 
+
+> "People buy based on the perceived value of a product, DUH!" 
+
+But, if we dig deeper, this isn’t always the case. 1: Support One reason people buy is to support others that we care about. This is why building an audience is so insanely powerful.
 
 Having an audience can be the difference between success and failure. It truly is an unfair advantage. _(By the way - people always forget this when it comes to online guidance. When you’re taking advice, consider if that person has this unfair advantage. If so, you shouldn’t take their advice as absolute fact.)_
 
 ## 2: Push
 
- The second reason people buy is because you convinced them that they had a problem that you can solve. I call this 'push' marketing because you are pushing your product on a prospect. In push, you have to tell the prospect what problem they have, as well as how you can solve it.
+The second reason people buy is because you convinced them that they had a problem that you can solve. I call this 'push' marketing because you are pushing your product on a prospect. In push, you have to tell the prospect what problem they have, as well as how you can solve it.
 
 There’s a lot of hidden risk in building a product in this area. Scores of products fail based on this decision alone. Here are three risks you will find in a push product:
 
 ### Risk 1: Building something that no one wants
 
- For one, you run the risk of building something that no one wants. **If it’s such a painful problem, how in the world do they not know about it?** Why haven’t they tried to solve it on their own? It's rare that an idea in this 'push' has a satisfactory answer to this question. But when it does, we come to the next issue...
+For one, you run the risk of building something that no one wants. **If it’s such a painful problem, how in the world do they not know about it?** Why haven’t they tried to solve it on their own? It's rare that an idea in this 'push' has a satisfactory answer to this question. But when it does, we come to the next issue...
 
 ### Risk 2: Requires a behavior change that people won’t (or can’t) make
 
- The second risk is more pernicious. If can't or won't change their behavior, they won’t be willing to pay for your product. **To them, the increase in value isn’t worth the effort to adopt your product.** When this is the case, it takes a massive marketing effort to get people to change. Think Apple and Air pods or the iPhone. Both of these required massive investment to get people to change the way they lived.
+The second risk is more pernicious. If can't or won't change their behavior, they won’t be willing to pay for your product. **To them, the increase in value isn’t worth the effort to adopt your product.** When this is the case, it takes a massive marketing effort to get people to change. Think Apple and Air pods or the iPhone. Both of these required massive investment to get people to change the way they lived.
 
 ### Risk 3: Users don’t expect to pay
 
- The third risk - the least obvious of the bunch - is that users don’t expect to pay for your product. In every industry, there are the parts we pay for, and the parts that are free.
+The third risk - the least obvious of the bunch - is that users don’t expect to pay for your product. In every industry, there are the parts we pay for, and the parts that are free.
 
 For example, when you want to create a website, what do you spend money on?
 
@@ -45,13 +49,13 @@ But, when was the last time you paid for a CMS? Odds are, you haven't, because m
 * Sell why it’s better to spend money on this product (instead of keeping the status quo)
 * Finally, you need to create an app so good that it changes their behavior for them!
 
- It takes a lot to make a product like that successful. It’s where I’m at now with [codernotes.io](http://codernotes.io/ "http://codernotes.io").
+It takes a lot to make a product like that successful. It’s where I’m at now with [codernotes.io](http://codernotes.io/ "http://codernotes.io").
 
- A bootstrapper / Indie Hacker is going to have it rough succeeding in push. **That is, unless they have a large enough audience to drive adoption in that niche.** The worst part about these risks is that they aren’t obvious. Your idea might be good. It might be an improvement over the current experience. But, if you have to push a product to a user who doesn't think they need it, none of that will matter. > _”So, how do I avoid this?”_
+A bootstrapper / Indie Hacker is going to have it rough succeeding in push. **That is, unless they have a large enough audience to drive adoption in that niche.** The worst part about these risks is that they aren’t obvious. Your idea might be good. It might be an improvement over the current experience. But, if you have to push a product to a user who doesn't think they need it, none of that will matter. > _”So, how do I avoid this?”_
 
 ## 3: Pull
 
- The third and final reason people buy is because they are looking for a solution to a problem. I call this ‘pull’. The process for selling a product that has pull is entirely different from one that doesn’t. Users search or seek word-of-mouth referrals for your product. They already know the problem is painful enough to pay for it. You position yourself as the authority for an under-served niche in that market. Then, they buy.
+The third and final reason people buy is because they are looking for a solution to a problem. I call this ‘pull’. The process for selling a product that has pull is entirely different from one that doesn’t. Users search or seek word-of-mouth referrals for your product. They already know the problem is painful enough to pay for it. You position yourself as the authority for an under-served niche in that market. Then, they buy.
 
 ### An Example:
 

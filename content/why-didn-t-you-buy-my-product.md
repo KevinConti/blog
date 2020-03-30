@@ -3,7 +3,7 @@ title: You Need to Learn the 3 Reasons People Buy
 description: How learning about 'pull' can save you months of wasted effort
 date: 2020-03-30T00:00:00-04:00
 categories: []
-published: false
+published: true
 
 ---
 I got an email today for a free trial that I let expire. I was pumped about the product at first. I even tweeted about how it would change the way I work.

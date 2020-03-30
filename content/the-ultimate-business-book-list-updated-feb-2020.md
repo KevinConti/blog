@@ -1,5 +1,5 @@
 ---
-title: The Ultimate Business Book List (Updated Feb 2020)
+title: The Ultimate Business Book List (Updated April 2020)
 description: My hand-selected guide of the best books for starting a company
 date: 2020-02-27T00:00:00-05:00
 categories: []
@@ -28,9 +28,17 @@ _If you don't read this, you'll misunderstand why people would buy your product,
 
 Running Lean - Ash Maurya
 
-Although Lean Startup has died in recent popularity for the bootstrapper crowd, this book takes the theory of the Lean movement and puts it to work. You won't find chapters on how to endlessly split test the color of your signup button here. This book is all about iterating from the first version of your idea into an idea that works. 
+Although Lean Startup has died in recent popularity for the bootstrapper crowd, this book takes the theory of the Lean movement and puts it to work. You won't find chapters on how to endlessly split test the color of your signup button here. This book is all about iterating from the first version of your idea into an idea that works.
 
 _If you don't read this, you'll commit to your original idea, and never be able to pivot into the business you dream of._
+
+**Once You Have a Product**
+
+Obviously Awesome - April Dunford
+
+This book is about _positioning_, something you know nothing about unless you've read this specific book. This thing is basically gospel at this point, it's that good. If you have a good product, this book will teach you how to get your users absolutely raving over it.
+
+_If you don't read this, you'll have a mediocre product that could have been a home-run._
 
 **When You're Ready to Grow**
 
@@ -53,7 +61,7 @@ If you want more elaboration on this subject, check out the book (you're welcome
 
 Profit First - Mike Michalowicz
 
-This is the equivalent of the "pay yourself first" advice in personal finance. Turns out, it applies to business finance too. This book is what will allow you to bootstrap past $1k, past $2k, and up to however many millions in revenue. 
+This is the equivalent of the "pay yourself first" advice in personal finance. Turns out, it applies to business finance too. This book is what will allow you to bootstrap past $1k, past $2k, and up to however many millions in revenue.
 
 _If you don't read this, you'll screw up your expenses, and will have a company with great revenue but no profit_
 

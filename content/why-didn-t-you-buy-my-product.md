@@ -16,7 +16,11 @@ We treat this like it’s an easy question. How would you answer it?
 
 > "People buy based on the perceived value of a product, DUH!" 
 
-But, if we dig deeper, this isn’t always the case. 1: Support One reason people buy is to support others that we care about. This is why building an audience is so insanely powerful.
+But, if we dig deeper, this isn’t always the case. 
+
+## 1: Support 
+
+One reason people buy is to support others that we care about. This is why building an audience is so insanely powerful.
 
 Having an audience can be the difference between success and failure. It truly is an unfair advantage. _(By the way - people always forget this when it comes to online guidance. When you’re taking advice, consider if that person has this unfair advantage. If so, you shouldn’t take their advice as absolute fact.)_
 

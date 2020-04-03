@@ -38,7 +38,7 @@ module.exports = {
             resolve: 'gatsby-remark-external-links',
             options: {
               target: null,
-              rel: '',
+              rel: 'dofollow',
             },
           },
         ],

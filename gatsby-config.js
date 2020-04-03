@@ -34,7 +34,13 @@ module.exports = {
               align: 'center',
             },
           },
-          'gatsby-remark-external-links',
+          {
+            resolve: 'gatsby-remark-external-links',
+            options: {
+              target: null,
+              rel: '',
+            },
+          },
         ],
       },
     },

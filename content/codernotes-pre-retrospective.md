@@ -16,10 +16,20 @@ From a product perspective, it's everything I wanted in a note-taking software. 
 
 But, from a financial perspective, an entrepreneurial perspective, I've wanted to write this retrospective on the project. I don't believe CoderNotes will reach the goals I had for the product during the initial vision.
 
-It's not that it's failing, per-se. I think it's a great product that will slowly grow in revenue over time. 
+It's not that it's failing, per-se. I think it's a great product that will slowly grow in revenue over time.
 
 It's also too soon to talk about this. Hence the name "Pre-Retrospective". I'm guessing that the June 1st launch will be mediocre, and writing from that perspective. Maybe I'll be one of the lucky few who gets skyrocked to #1 on Product Hunt, but one lesson I've learned from this project is to not rely on luck as a primary factor of success.
 
 So, CoderNotes won't be a home-run, but it isn't a strike-out. It feels more like a foul ball.
 
-I'm writing this article to organize my thoughts around what went well, and what went wrong, over the past five months. I also want to organize my takeaways from CoderNotes, and come to some conclusions around what the long-term plan for CoderNotes will be, what the next project I'm tackling is (if any for now), and 
+I'm writing this article to organize my thoughts around what went well, and what went wrong, over the past five months. I also want to organize my takeaways from CoderNotes, and come to some conclusions around what the long-term plan for CoderNotes will be, what my lessons learned are, and what the next project I'm tackling is, if any for now.
+
+> Worth mentioning... before Tuple, I created several paid info products, a paid Rails app, a subscriptiion info product business, and two tiny SaaSs.
+>
+>   
+> Tuple was not my first at-bat. I created a half-dozen less successful things first.  
+>   
+> Start your first three business as quickly as possible.  
+> \- @r00k (Ben Orenstein) - 05/14/20
+
+## 1. What went well:

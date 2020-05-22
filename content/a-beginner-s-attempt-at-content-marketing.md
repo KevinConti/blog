@@ -1,7 +1,7 @@
 ---
 title: A Beginner's attempt at content marketing
 description: How does this even work?
-date: 
+date: 2020-05-01T00:00:00-04:00
 categories: []
 published: true
 

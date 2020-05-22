@@ -35,7 +35,7 @@ I'm writing this article to organize my thoughts around what went well, and what
 
 ### 1. The initial pivot
 
-![](/uploads/the-problem.jpg)
+![](/static/the-problem.jpg)
 
 ## What didn't go well:
 
@@ -69,7 +69,7 @@ It wouldn't be right to call it life-support. Yes, I don't plan on adding many n
 
 I never found any successful short-term channels with CoderNotes. I had hoped that the communities I was a part of, becoming more active on twitter, and paid advertising would be enough to consistently drive converting traffic to CoderNotes.
 
-![Conversion information for codernotes from the past three months](/uploads/conversion-by-source.jpg)
+![](/static/conversion-by-source.jpg)
 
 As you can see, the results I saw were almost the opposite in effect. While twitter brought in some curious people, the conversion rate was horrible.
 
@@ -85,7 +85,7 @@ Take a look at #7. What does it mean for my app to be referring users to my mark
 
 Well, not really. The only link from the app that goes back to the site is this one here:
 
-![](/uploads/learn-more.jpg)
+![](/static/learn-more.jpg)
 
 It's a small link that shows up at the top of the app if you don't have an account. The high conversion rate means that this link **works**.
 
@@ -93,12 +93,12 @@ And how would someone find this link without having gone through the marketing p
 
 ## What I'm doing long-term
 
-![A photo showing search results increasing](/uploads/long-term-hope.jpg "Slowly but surely, search results increase")
+![](/static/long-term-hope.jpg)
 
 For CoderNotes, the long-term strategy is to let it grow organically via Google. As users add public notes to the platform, they get indexed by Google. This, in turn, leads to more people finding CoderNotes in their search results. When developers find a new site like this that solved their problem, they are curious and want to sign up themselves. That's why that link has converted so well!
 
 I've been reading Good Strategy, Bad Strategy recently, and they discuss that Good Strategy is having a clear understanding of the reality of a situation, and making a decision while being conscious of the trade-offs.
 
-For right now, Good Strategy for CoderNotes is to go with the flow of the river, even if it's slower than I'd like. Let google continue to rank CoderNotes higher and higher, leading to more and more daily traffic. Some of those people will sign up, and eventually we may even find that some people are interested in a team subscription. If and when that time comes, it will make sense to re-invest in CoderNotes. 
+For right now, Good Strategy for CoderNotes is to go with the flow of the river, even if it's slower than I'd like. Let google continue to rank CoderNotes higher and higher, leading to more and more daily traffic. Some of those people will sign up, and eventually we may even find that some people are interested in a team subscription. If and when that time comes, it will make sense to re-invest in CoderNotes.
 
 In the meantime, it's time to step off the treadmill, and put my time into something else. It's time to find a different lever to pull, one where short-to-medium term focus will be rewarded.

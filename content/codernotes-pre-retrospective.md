@@ -70,4 +70,18 @@ It wouldn't be right to call it life-support. Yes, I don't plan on adding many n
 
 I never found any successful short-term channels with CoderNotes. I had hoped that the communities I was a part of, becoming more active on twitter, and paid advertising would be enough to consistently drive converting traffic to CoderNotes.
 
+![](/uploads/conversion-by-source.PNG)
+
+As you can see, the results I saw were almost the opposite in effect. While twitter brought in some curious people, the conversion rate was horrible. 
+
+IndieHackers was the second best, which speaks to the fact that it is such an amazing community. Even though I'm sure many of these people were only here out of curiosity, it still remained a well-converting group. A lot of IHers are developers by trade, which I think helped a lot. However, Indie Hackers isn't nearly enough traffic to keep the site alive on its own, due to the extremely low price point of $50/year or $5/month. The few subscriptions I'll end up getting through here probably won't cover infrastructure costs.
+
+Oh, and google ads ("google / cpc" in the picture above) had an abysmal 0.00% conversion rate. Ouch.
+
+### While there's no short-term channels for CoderNotes, there are two very strong positives in the picture above.
+
+These two channels in the picture above are the reason I'm not calling this next phase of CoderNotes "life support". It's my all-in bet on why CoderNotes still has a chance at success, from a longer-term perspective. It's either this or bust, it seems:
+
+Take a look at #7. What does it mean for my app to be referring users to my marketing page? What does that mean.
+
 ## What I'm doing long-term:

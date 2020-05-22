@@ -6,7 +6,7 @@ categories: []
 published: false
 
 ---
-CoderNotes has finally launched.
+## CoderNotes has finally launched.
 
 Well, the official launch is June 1st, but there won't be any more code changes up until that point. For the people finding CoderNotes organically on Google, it may as well be fully launched.
 
@@ -32,4 +32,40 @@ I'm writing this article to organize my thoughts around what went well, and what
 > Start your first three business as quickly as possible.  
 > \- @r00k (Ben Orenstein) - 05/14/20
 
-## 1. What went well:
+## What went well:
+
+### 1. The initial pivot
+
+![](/uploads/the-problem.PNG "My initial idea")
+
+## What didn't go well:
+
+### No good short-term channels:
+
+When starting CoderNotes, I thought that 
+
+## What I learned:
+
+Look at a business as the sum of three parts:
+
+1. The market (who is interested in this?)
+2. The channels (How can I reach the market?)
+3. The product (What am I offering via the channel?)
+
+You'll notice that I put the product last. This might seem backwards, but I think it's the right spot for it. It's a failure of the English language to say "I'm building a product." It skips over the two equally important parts, and gives a misleading image of what it means to create a SaaS business. 
+
+It would be more accurate to say, _"I'm building authority in \[channels\] to serve \[market\], and will be offering \[product\] for those it can help."_
+
+## What I'm doing next:
+
+Part of me really wants to write. I don't know if it's just temporary, a decompression, from the constant product work. But I'm torn on this subject.
+
+On one hand, writing is something I enjoy. It's a guaranteed way to gain initial traction on a product. It's a great way to make friends in the industry, and help grow both your personal and business brands. It would be nice to play a game where the only risk is product risk ("can I produce quality content consistently?") instead of market risk ("will people be interested in buying this?").
+
+On the other hand, I've never been able to write consistently. I want to write what I want to write about (like this post), regardless of who reads it. I don't want to build an audience, I want to prove that a bootstrapped founder can be successful based on the quality of the product alone.
+
+### As far as CoderNotes, I want to let it grow organically.
+
+It wouldn't be right to call it life-support. Yes, I don't plan on adding many new features, if any at all, but that's because CoderNotes is a great piece of software as is. Any other features are simply nice-to-haves. 
+
+## What I'm doing long-term:

@@ -68,4 +68,6 @@ On the other hand, I've never been able to write consistently. I want to write w
 
 It wouldn't be right to call it life-support. Yes, I don't plan on adding many new features, if any at all, but that's because CoderNotes is a great piece of software as is. Any other features are simply nice-to-haves. 
 
+I never found any successful short-term channels with CoderNotes. I had hoped that the communities I was a part of, becoming more active on twitter, and paid advertising would be enough to consistently drive converting traffic to CoderNotes.
+
 ## What I'm doing long-term:

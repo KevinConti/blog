@@ -3,7 +3,7 @@ title: CoderNotes Pre-Retrospective
 description: A quick look back from a point of uncertainty
 date: 2020-05-22T00:00:00-04:00
 categories: []
-published: false
+published: true
 
 ---
 ## CoderNotes has finally launched.
@@ -82,6 +82,10 @@ Oh, and google ads ("google / cpc" in the picture above) had an abysmal 0.00% co
 
 These two channels in the picture above are the reason I'm not calling this next phase of CoderNotes "life support". It's my all-in bet on why CoderNotes still has a chance at success, from a longer-term perspective. It's either this or bust, it seems:
 
-Take a look at #7. What does it mean for my app to be referring users to my marketing page? What does that mean.
+Take a look at #7. What does it mean for my app to be referring users to my marketing page? Seems weird, right?
+
+Well, not really. The only link from the app that goes back to the site is this one here:
+
+![](/uploads/learn-more.PNG)
 
 ## What I'm doing long-term:

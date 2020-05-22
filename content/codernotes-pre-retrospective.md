@@ -26,9 +26,8 @@ I'm writing this article to organize my thoughts around what went well, and what
 
 > Worth mentioning... before Tuple, I created several paid info products, a paid Rails app, a subscriptiion info product business, and two tiny SaaSs.
 >
->   
-> Tuple was not my first at-bat. I created a half-dozen less successful things first.  
->   
+> Tuple was not my first at-bat. I created a half-dozen less successful things first.
+>
 > Start your first three business as quickly as possible.  
 > \- @r00k (Ben Orenstein) - 05/14/20
 
@@ -36,13 +35,13 @@ I'm writing this article to organize my thoughts around what went well, and what
 
 ### 1. The initial pivot
 
-![](/uploads/the-problem.PNG "My initial idea")
+![](/uploads/the-problem.jpg)
 
 ## What didn't go well:
 
 ### No good short-term channels:
 
-When starting CoderNotes, I thought that 
+When starting CoderNotes, I thought that
 
 ## What I learned:
 
@@ -52,7 +51,7 @@ Look at a business as the sum of three parts:
 2. The channels (How can I reach the market?)
 3. The product (What am I offering via the channel?)
 
-You'll notice that I put the product last. This might seem backwards, but I think it's the right spot for it. It's a failure of the English language to say "I'm building a product." It skips over the two equally important parts, and gives a misleading image of what it means to create a SaaS business. 
+You'll notice that I put the product last. This might seem backwards, but I think it's the right spot for it. It's a failure of the English language to say "I'm building a product." It skips over the two equally important parts, and gives a misleading image of what it means to create a SaaS business.
 
 It would be more accurate to say, _"I'm building authority in \[channels\] to serve \[market\], and will be offering \[product\] for those it can help."_
 
@@ -66,13 +65,13 @@ On the other hand, I've never been able to write consistently. I want to write w
 
 ### As far as CoderNotes, I want to let it grow organically.
 
-It wouldn't be right to call it life-support. Yes, I don't plan on adding many new features, if any at all, but that's because CoderNotes is a great piece of software as is. Any other features are simply nice-to-haves. 
+It wouldn't be right to call it life-support. Yes, I don't plan on adding many new features, if any at all, but that's because CoderNotes is a great piece of software as is. Any other features are simply nice-to-haves.
 
 I never found any successful short-term channels with CoderNotes. I had hoped that the communities I was a part of, becoming more active on twitter, and paid advertising would be enough to consistently drive converting traffic to CoderNotes.
 
-![](/uploads/conversion-by-source.PNG)
+![Conversion information for codernotes from the past three months](/uploads/conversion-by-source.jpg)
 
-As you can see, the results I saw were almost the opposite in effect. While twitter brought in some curious people, the conversion rate was horrible. 
+As you can see, the results I saw were almost the opposite in effect. While twitter brought in some curious people, the conversion rate was horrible.
 
 IndieHackers was the second best, which speaks to the fact that it is such an amazing community. Even though I'm sure many of these people were only here out of curiosity, it still remained a well-converting group. A lot of IHers are developers by trade, which I think helped a lot. However, Indie Hackers isn't nearly enough traffic to keep the site alive on its own, due to the extremely low price point of $50/year or $5/month. The few subscriptions I'll end up getting through here probably won't cover infrastructure costs.
 
@@ -86,6 +85,14 @@ Take a look at #7. What does it mean for my app to be referring users to my mark
 
 Well, not really. The only link from the app that goes back to the site is this one here:
 
-![](/uploads/learn-more.PNG)
+![](/uploads/learn-more.jpg)
 
-## What I'm doing long-term:
+It's a small link that shows up at the top of the app if you don't have an account. The high conversion rate means that this link **works**. 
+
+And how would someone find this link without having gone through the marketing page first? Google.
+
+## What I'm doing long-term
+
+![A photo showing search results increasing](/uploads/long-term-hope.jpg "Slowly but surely, search results increase")
+
+For CoderNotes, the long-term strategy is to 

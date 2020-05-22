@@ -19,6 +19,7 @@ fields:
   label: published
 pages:
 - content/a-beginner-s-attempt-at-content-marketing.md
+- content/codernotes-pre-retrospective.md
 - content/fear-and-uncertainty.md
 - content/finding-problems-to-solve.md
 - content/the-ultimate-business-book-list-updated-feb-2020.md

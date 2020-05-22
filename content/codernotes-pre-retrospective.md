@@ -87,7 +87,7 @@ Well, not really. The only link from the app that goes back to the site is this 
 
 ![](/uploads/learn-more.jpg)
 
-It's a small link that shows up at the top of the app if you don't have an account. The high conversion rate means that this link **works**. 
+It's a small link that shows up at the top of the app if you don't have an account. The high conversion rate means that this link **works**.
 
 And how would someone find this link without having gone through the marketing page first? Google.
 
@@ -95,4 +95,10 @@ And how would someone find this link without having gone through the marketing p
 
 ![A photo showing search results increasing](/uploads/long-term-hope.jpg "Slowly but surely, search results increase")
 
-For CoderNotes, the long-term strategy is to 
+For CoderNotes, the long-term strategy is to let it grow organically via Google. As users add public notes to the platform, they get indexed by Google. This, in turn, leads to more people finding CoderNotes in their search results. When developers find a new site like this that solved their problem, they are curious and want to sign up themselves. That's why that link has converted so well!
+
+I've been reading Good Strategy, Bad Strategy recently, and they discuss that Good Strategy is having a clear understanding of the reality of a situation, and making a decision while being conscious of the trade-offs.
+
+For right now, Good Strategy for CoderNotes is to go with the flow of the river, even if it's slower than I'd like. Let google continue to rank CoderNotes higher and higher, leading to more and more daily traffic. Some of those people will sign up, and eventually we may even find that some people are interested in a team subscription. If and when that time comes, it will make sense to re-invest in CoderNotes. 
+
+In the meantime, it's time to step off the treadmill, and put my time into something else. It's time to find a different lever to pull, one where short-to-medium term focus will be rewarded.

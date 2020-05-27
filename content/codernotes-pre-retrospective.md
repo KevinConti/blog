@@ -3,7 +3,7 @@ title: CoderNotes Pre-Retrospective
 description: A quick look back from a point of uncertainty
 date: 2020-05-22T00:00:00-04:00
 categories: []
-published: true
+published: false
 
 ---
 ## CoderNotes has finally launched.
@@ -102,3 +102,5 @@ I've been reading Good Strategy, Bad Strategy recently, and they discuss that Go
 For right now, Good Strategy for CoderNotes is to go with the flow of the river, even if it's slower than I'd like. Let google continue to rank CoderNotes higher and higher, leading to more and more daily traffic. Some of those people will sign up, and eventually we may even find that some people are interested in a team subscription. If and when that time comes, it will make sense to re-invest in CoderNotes.
 
 In the meantime, it's time to step off the treadmill, and put my time into something else. It's time to find a different lever to pull, one where short-to-medium term focus will be rewarded.
+
+### Where I’m going personally:

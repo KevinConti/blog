@@ -6,23 +6,23 @@ categories: []
 published: false
 
 ---
-## CoderNotes has finally launched.
+## ![](/problem.jpg)CoderNotes has finally launched.
 
-Well, the official launch is June 1st, but there won't be any more code changes up until that point. For the people finding CoderNotes organically on Google, it may as well be fully launched.
-
-There's a large part of me that's happy about the fact that it's done. This was my first product, my stairstep product, in the SaaS category, and I'm glad to have a product out there on the interwebs. CoderNotes is a really high-quality product (in my not-so-humble opinion), and I'm extremely proud of it.
+I'm happy that it's done. This was my first product, my stairstep product in the SaaS category. CoderNotes is a really high-quality product (in my not-so-humble opinion), and I'm extremely proud of it.
 
 From a product perspective, it's everything I wanted in a note-taking software. I use it daily both in my personal life and for my work. It's a great feeling to have "scratched my own itch".
 
-But, from a financial perspective, an entrepreneurial perspective, I've wanted to write this retrospective on the project. I don't believe CoderNotes will reach the goals I had for the product during the initial vision.
+But, from an entrepreneurial perspective, I've wanted to write this retrospective on the project. I don't believe CoderNotes will reach the goals I had for the product during the initial vision.
 
 It's not that it's failing, per-se. I think it's a great product that will slowly grow in revenue over time.
 
-It's also too soon to talk about this. Hence the name "Pre-Retrospective". I'm guessing that the June 1st launch will be mediocre, and writing from that perspective. Maybe I'll be one of the lucky few who gets skyrocked to #1 on Product Hunt, but one lesson I've learned from this project is to not rely on luck as a primary factor of success.
+It's also too soon to talk about this. Hence the name "Pre-Retrospective". I'm guessing that the June 1st launch will be mediocre. Maybe I'll be one of the lucky few who gets skyrocked to #1 on Product Hunt, but one lesson I've learned from this project is to not rely on luck as a primary factor of success.
 
-So, CoderNotes won't be a home-run, but it isn't a strike-out. It feels more like a foul ball.
+So, CoderNotes won't be a home-run, but it isn't a strike-out.
 
-I'm writing this article to organize my thoughts around what went well, and what went wrong, over the past five months. I also want to organize my takeaways from CoderNotes, and come to some conclusions around what the long-term plan for CoderNotes will be, what my lessons learned are, and what the next project I'm tackling is, if any for now.
+**It feels more like a foul ball.**
+
+I'm writing this article to organize my thoughts around what went well and what went wrong over the past five months. I also want to organize my takeaways from CoderNotes, and come to some conclusions around what the long-term plan for CoderNotes will be, what the lessons learned are, and what the next project I'm tackling is, if any for now.
 
 > Worth mentioning... before Tuple, I created several paid info products, a paid Rails app, a subscriptiion info product business, and two tiny SaaSs.
 >
@@ -36,6 +36,20 @@ I'm writing this article to organize my thoughts around what went well, and what
 ### 1. The initial pivot
 
 ![](/static/the-problem.jpg)
+
+I initially made CoderNotes for a different problem than the general one it ended up solving. At first, CoderNotes was a solution for junior developers taking coding courses. It was designed to be a note-taking system that improved retention. It would have features like:
+
+* Spaced repetition
+* Public and private flashcards
+* Comments on flashcards
+
+When I reached out to developers to share the idea (my first mistake, as we'll see later), I found that while only some junior developers related to that pain, there was a specific value prop that everyone could get behind:
+
+!["You know you've solved the problem before, but can't remember how](/problem.jpg "The pivot's value prop")
+
+When I interviewed people about this pain, I got a lot of affirmative responses. I took this as validation and ran with it, immediately lowering my head into the ground to start working.
+
+Eventually, I created CoderNotes.
 
 ## What didn't go well:
 
